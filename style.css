@@ -113,7 +113,7 @@ small{
     left: 0;
     bottom: 0;
     position: absolute;
-    background: linear-gradient(to right, #db1bf6, #19d7f8);
+    background: linear-gradient(to right, #db1bf6,#19d7f8);
 }
 .quick-links ul{
     display: inline-flex;
@@ -145,7 +145,7 @@ small{
     text-align: center;
 }
 .social-icons ul li a{
-    color: #999;
+    color:#999;
     border-radius: 50%;
     border: 1 px solid #999;
     padding: 5px;
